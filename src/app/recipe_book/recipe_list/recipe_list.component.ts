@@ -5,4 +5,6 @@ import { RecipeItemComponent } from './recipe_item/recipe_item.component';
   templateUrl: './recipe_list.component.html',
   styleUrls: ['./recipe_list.component.css'],
 })
-export class RecipeListComponent {}
+export class RecipeListComponent {
+  recipes = [];
+}
