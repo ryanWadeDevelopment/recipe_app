@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
 import { RecipeDetailComponent } from './recipe_detail/recipe_detail.component';
-import { RecipeItemComponent } from './recipe_item/recipe_item.component';
+
 import { RecipeListComponent } from './recipe_list/recipe_list.component';
 
 @Component({

@@ -5,8 +5,8 @@ import { AppComponent } from './app.component';
 import { HeaderComponent } from './header/header.component';
 import { RecipeBookComponent } from './recipe_book/recipe_book.component';
 import { RecipeDetailComponent } from './recipe_book/recipe_detail/recipe_detail.component';
-import { RecipeItemComponent } from './recipe_book/recipe_item/recipe_item.component';
 import { RecipeListComponent } from './recipe_book/recipe_list/recipe_list.component';
+import { RecipeItemComponent } from './recipe_book/recipe_list/recipe_item/recipe_item.component';
 import { ShoppingListComponent } from './shopping_list/shopping_list.component';
 import { ShoppingListEditComponent } from './shopping_list/shopping_list_edit/shopping_list_edit.component';
 
@@ -16,8 +16,8 @@ import { ShoppingListEditComponent } from './shopping_list/shopping_list_edit/sh
     HeaderComponent,
     RecipeBookComponent,
     RecipeDetailComponent,
-    RecipeItemComponent,
     RecipeListComponent,
+    RecipeItemComponent,
     ShoppingListComponent,
     ShoppingListEditComponent,
   ],
